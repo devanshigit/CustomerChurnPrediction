@@ -98,6 +98,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ##  Team Nova
 
-* Devanshi S
-* Maithali B. 
-* Aditya Bahadur @abahadur29
+## 🤝 Team Nova – Contributors
+
+- [@devanshigit](https://github.com/devanshigit) 
+- [@maithali-b](https://github.com/Maithili-Badhan)
+- [@abahadur29](https://github.com/abahadur29)
+
